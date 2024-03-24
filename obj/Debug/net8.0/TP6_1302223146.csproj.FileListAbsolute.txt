@@ -1,0 +1,15 @@
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\bin\Debug\net8.0\TP6_1302223146.exe
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\bin\Debug\net8.0\TP6_1302223146.deps.json
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\bin\Debug\net8.0\TP6_1302223146.runtimeconfig.json
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\bin\Debug\net8.0\TP6_1302223146.dll
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\bin\Debug\net8.0\TP6_1302223146.pdb
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.AssemblyInfoInputs.cache
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.AssemblyInfo.cs
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.sourcelink.json
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.dll
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\refint\TP6_1302223146.dll
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.pdb
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\TP6_1302223146.genruntimeconfig.cache
+C:\Users\alienware\source\repos\TP6_1302223146\TP6_1302223146\obj\Debug\net8.0\ref\TP6_1302223146.dll
